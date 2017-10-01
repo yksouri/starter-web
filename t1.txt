@@ -5,7 +5,7 @@ AAA
 XXXYYYZZZ
 DDD
 Stashing2
-TAG PUSH => COMMIT PUSH
+TAG PUSH => COMMIT PUSH (Eh bah c'est faux, il faut utiliser git push origin master --tags)
 
 
 Thanks everybody
