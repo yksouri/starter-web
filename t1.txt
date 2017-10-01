@@ -5,6 +5,7 @@ AAA
 XXXYYYZZZ
 DDD
 Stashing2
+TAG PUSH => COMMIT PUSH
 
 
 Thanks everybody
